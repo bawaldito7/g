@@ -1,0 +1,48 @@
+body {
+    background-color: #C4D7E0;
+
+}
+
+hr {
+    border-style: none;
+    border-top: solid;
+    border-color: white;
+    border-width: 1px;
+    width: 95%;
+}
+
+
+img {
+
+    height: 250px;
+    border-radius: 50%;
+    box-shadow: 1px 0px 5px;
+
+}
+
+table {
+    border-spacing: 50px 5px;
+
+}
+
+.first {
+
+    background-color: #B2C8DF;
+    margin-left: auto;
+    margin-right: auto;
+    box-sizing: border-box;
+    width: 95%;
+    border: solid #5B6DCD 0px;
+    padding: 0px 50px;
+
+}
+
+h1 {
+    color: #160a64;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif  ;
+    font-stretch: expanded;
+}
+
+h4 {
+    color: #000000;
+}
